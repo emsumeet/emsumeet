@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @emsumeet (Sumeet Varghade)
-- 👀 I’m interested in Java application Dev, database mangement (SQL) and Android Dev,
-- 🌱 I’m a recent graduate in Master's in Computer Science.
-- 💞️ I’m willing to contribute in Java application development projects. Would love to learn whilst working on Python and Android dev. 
-- 📫 WorkEmail: sumeetvarghade808@gmail.com
+# Hi 👋 I'm Sumeet Varghade  
 
-<!---
-emsumeet/emsumeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Data Analyst | 🤖 Agentic AI Enthusiast | 💻 Software Engineer  
+
+I build data-driven solutions and intelligent AI agents that automate decision-making and insights.  
+My goal is to combine analytics with agentic AI to solve real-world problems.
+
+---
+
+## 🔹 What I Work On
+- Data analysis using Python, SQL, Pandas, NumPy
+- Dashboards with Power BI & Matplotlib
+- AI agents using LLMs, tools, and workflows
+- Retrieval-Augmented Generation (RAG) systems
+- Autonomous task agents
+
+---
+
+## 🔹 Current Focus
+- Building a strong GitHub portfolio
+- Daily GitHub commits
+- Data analytics projects
+- Agentic AI systems
+
+---
+
+## 🔹 Tech Stack
+Python | SQL | Pandas | NumPy | Power BI | Matplotlib | LangChain | OpenAI | Git | Linux  
+
+---
+
+## 🔹 Projects
+🚧 Portfolio under active development — daily updates coming soon.
+
+---
+
+⭐ If you like my work, feel free to follow!
